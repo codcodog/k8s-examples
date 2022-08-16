@@ -1,4 +1,4 @@
 Kubernetes templates
 =====================
 
-Kubernetes 常用对象模板文件.
+Kubernetes 常用对象示例文件.
