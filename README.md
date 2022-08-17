@@ -8,3 +8,6 @@ Kubernetes 常用对象 `YAML` 示例文件.
 ```bash
 $ kubectl explain pods.spec.containers
 ```
+
+### 参考
+[Kubernetes API Reference](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.19/#-strong-api-overview-strong-)
